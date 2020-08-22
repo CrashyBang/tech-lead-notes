@@ -33,4 +33,4 @@ Responsibilites of the Technical Lead (assmuning "Trident Model"):
 - Technical risk management ⚡ (proactively thinking about where risks can/could occur and strengthening these areas)
 - Technical debt management ⚖ (proactively knowing when and where to make optimizations in the system to reduce friction in future update paths)
 
-
+![Tech Lead Role](https://www.thekua.com/atwork/wp-content/uploads/2015/06/TechLeadCircles.png)
