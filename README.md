@@ -27,8 +27,10 @@ Things to be proactive about:
 _Synopsis_: Technical leadership is less of a promotion (more of what you did before but with more control/responsibility) and more of a change in role, that comes with a new series of jobs and responsibilities. Touches on what is referred to as the "Trident Model" of career progression, which considers, **Technical Lead**, **Management**, **Individual Contributor**.
 
 Responsibilites of the Technical Lead (assmuning "Trident Model"):
-- Team alignment (essentially making sure everyone knows what they are working towards)
-- Technical vision (articulating what is actually being built, is it a series of micro services, or a large monolithic application?)
-- Growth of technical knowledge (making sure that no part of the system is owned/understood by only one developer, knowledge and resource sharing)
-- Technical risk management (proactively thinking about where risks can/could occur and strengthening these areas)
-- Technical debt management (proactively knowing when and where to make optimizations in the system to reduce friction in future update paths)
+- Team alignment 🤼 (essentially making sure everyone knows what they are working towards)
+- Technical vision 👀 (articulating what is actually being built, is it a series of micro services, or a large monolithic application?)
+- Growth of technical knowledge 🌿 (making sure that no part of the system is owned/understood by only one developer, knowledge and resource sharing)
+- Technical risk management ⚡ (proactively thinking about where risks can/could occur and strengthening these areas)
+- Technical debt management ⚖ (proactively knowing when and where to make optimizations in the system to reduce friction in future update paths)
+
+
