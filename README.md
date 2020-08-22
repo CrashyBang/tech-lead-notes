@@ -45,3 +45,11 @@ Challenges of a Technical Lead:
 - Delegate effectively 🚀 don't just tell, participate and support (when/if needed) this helps your team to grow
 
 ![Tech Lead Role](https://www.thekua.com/atwork/wp-content/uploads/2015/06/TechLeadCircles.png)
+
+### References
+
+Here are some other great repositories with information that I either have pulled from or plan to pull from in the future.
+
+- [Tech Leading](https://github.com/PeterCookDev/TechLeading)
+- [Tech Leadership](https://github.com/icaroseara/tech-leadership)
+- [Tech Lead Coaching](https://github.com/techleadcoaching/coaching)
