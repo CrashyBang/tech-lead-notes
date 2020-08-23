@@ -53,3 +53,7 @@ Here are some other great repositories with information that I either have pulle
 - [Tech Leading](https://github.com/PeterCookDev/TechLeading)
 - [Tech Leadership](https://github.com/icaroseara/tech-leadership)
 - [Tech Lead Coaching](https://github.com/techleadcoaching/coaching)
+- [Manager's Playbook](https://github.com/ksindi/managers-playbook)
+- [The Eng Team Handbook](https://github.com/raylene/eng-handbook)
+- [The Engineering Manager's Booklist](https://github.com/jesselpalmer/the-engineering-managers-booklist)
+- [Awesome Engineering Team Management](https://github.com/kdeldycke/awesome-management)
